@@ -20,8 +20,13 @@
 - MySQL processes queries relatively fast, thus it saves time.
 - Being one of the most common database management systems, MySQL is widely used by people in the database community and therefore it is easy to search for MyS!L-related information, tutorials, QnAs, etc.
 
-## Screenshot
+## Screenshots
 
+![Stored Data 1](https://raw.githubusercontent.com/tasyald/Seleksi-2019-Tugas-2/master/screenshots/Stored%20Data%201.png)
+![Stored Data 2](https://raw.githubusercontent.com/tasyald/Seleksi-2019-Tugas-2/master/screenshots/Stored%20Data%202.png)
+![Stored Data 3](https://raw.githubusercontent.com/tasyald/Seleksi-2019-Tugas-2/master/screenshots/Stored%20Data%203.png)
+![Stored Data 4](https://raw.githubusercontent.com/tasyald/Seleksi-2019-Tugas-2/master/screenshots/Stored%20Data%204.png)
+![Stored Data 5](https://raw.githubusercontent.com/tasyald/Seleksi-2019-Tugas-2/master/screenshots/Stored%20Data%205.png)
 
 
 ## Reference
